@@ -4,7 +4,7 @@ This project is a simple implementation of a Unified Embedding paper.
 
 The model uses a single embedding table to encode multiple different categorical features in order to save memory and computation time when dealing with large-scale systems.
 
-You can find a [detailed explanation of the code here](). 
+You can find a [detailed explanation of the code here](https://forecastegy.com/posts/unified-embeddings-pytorch/). 
 
 ## Installing / Getting started
 
