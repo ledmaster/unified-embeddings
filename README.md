@@ -34,3 +34,5 @@ The main features of this project include:
 ## Licensing
 
 The code in this project is licensed under MIT license.
+
+PS: if you find it useful, please 🌟 the repo, thanks!
